@@ -22,8 +22,10 @@ public static void main(String[]args) {
 		for(Map.Entry<Character,Integer>entry:values.entrySet()) {
 			System.out.println(entry.getKey()+":"+entry.getValue());
 		}
-		
-		
+
+		System.out.println("make some changes in ur code:");
+		System.out.println("make some changes in ur coder:");
+
 	}
 
 }
