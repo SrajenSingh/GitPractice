@@ -27,7 +27,10 @@ public static void main(String[]args) {
 		System.out.println("More to go and learn");
 		System.out.println("learning should never be stopped");
 		System.out.println("I am your dad");
-		
+
+		System.out.println("This is application automation");
+		System.out.println("Hey Buddy I am in new Branch");
+
 	}
 
 }
