@@ -24,6 +24,8 @@ public static void main(String[]args) {
 			
 			System.out.println("Your string is non-anagram");
 		}
+		System.out.println("More to go and learn");
+		System.out.println("learning should never be stopped");
 	}
 
 }
