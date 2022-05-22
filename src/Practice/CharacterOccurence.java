@@ -23,7 +23,7 @@ public static void main(String[]args) {
 			System.out.println(entry.getKey()+":"+entry.getValue());
 		}
 		
-		System.out.println("make some changes in ur code:");
+		
 	}
 
 }
