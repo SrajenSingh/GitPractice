@@ -24,6 +24,7 @@ public static void main(String[]args) {
 		}
 		
 		System.out.println("make some changes in ur code:");
+		System.out.println("make some changes in ur coder:");
 	}
 
 }
